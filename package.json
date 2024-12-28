@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@middy/core": "^3.1.0",
-    "@rockset/client": "^0.8.23",
+    "@rockset/client": "^0.9.2",
     "ulid": "^2.3.0"
   },
   "devDependencies": {
